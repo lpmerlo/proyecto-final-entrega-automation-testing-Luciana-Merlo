@@ -15,7 +15,7 @@ El objetivo del proyecto es automatizar distintas pruebas funcionales de una apl
 
 ## Instalacion
 
-`git clone https://github.com/lpmerlo/pre-entrega-automation-testing-luciana-merlo.git`
+`git clone https://github.com/lpmerlo/proyecto-final-entrega-automation-testing-Luciana-Merlo.git`
 
 
 ## Instalacion dependencias
