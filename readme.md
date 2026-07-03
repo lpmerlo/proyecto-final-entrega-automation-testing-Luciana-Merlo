@@ -1,29 +1,33 @@
-# Proyecto de Automatizacion QA - Luciana Merlo
+# Proyecto Final de Automatizacion QA - Luciana Merlo
 
 ## Descripcion
 
-Proyecto de automatizacion de pruebas realizado con Python, Selenium WebDriver y Pytest.
+El proyecto consiste en la creación de un framework de testing automatizado en Python, utilizando Selenium WebDriver para pruebas de UI, la biblioteca Requests para pruebas de API, y aplicando patrones de diseño como Page Object Model para estructurar el código de manera eficiente y mantenible. 
 
-El objetivo del proyecto es automatizar distintas pruebas funcionales de una aplicacion web.
+El objetivo del proyecto es desarrollar un framework de automatización de pruebas que UI y API, y generar reportes visuales que faciliten la interpretación de los resultados
 
 ## Tecnologias usadas
-- Python
-- Selenium WebDriver
-- Pytest
-- Pytest HTML
-- Git
+- Python como lenguaje de programación principal
+- Pytest como framework de testing
+- Selenium WebDriver para automatización de interfaces web
+- Biblioteca Request para pruebas API
+- Git para control de versiones
+- GitHub como repositorio de código
 
 ## Instalacion
 
 `git clone https://github.com/lpmerlo/proyecto-final-entrega-automation-testing-Luciana-Merlo.git`
 
-
 ## Instalacion dependencias
 
 `pip install -r requirements.txt`
 
-## Funcionamiento de las prubeas
-- Test_cart: 
-- Test_navegacion
-- Test_login
+## Estructura del proyecto
+- Organización clara de directorios
+- implementa el patrón Page Object Model para las pruebas de UI
+  
 
+## Funcionalidades 
+- Pruebas de UI
+- Pruebas API
+- Generación de Reportes
