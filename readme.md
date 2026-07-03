@@ -31,3 +31,4 @@ El objetivo del proyecto es desarrollar un framework de automatización de prueb
 - Pruebas de UI
 - Pruebas API
 - Generación de Reportes
+- Integración con CI/CD
