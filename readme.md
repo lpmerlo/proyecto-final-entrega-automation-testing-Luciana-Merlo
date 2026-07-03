@@ -27,7 +27,7 @@ El objetivo del proyecto es desarrollar un framework de automatización de prueb
 ## Instalación del repositorio
 `git clone https://github.com/lpmerlo/proyecto-final-entrega-automation-testing-Luciana-Merlo.git`
 
-## Instalacion dependencias
+## Instalación dependencias
 `pip install -r requirements.txt`
 
 ## Ejecución de pruebas
