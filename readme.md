@@ -13,22 +13,27 @@ El objetivo del proyecto es desarrollar un framework de automatización de prueb
 - Biblioteca Request para pruebas API
 - Git para control de versiones
 - GitHub como repositorio de código
-
-## Instalacion
-
-`git clone https://github.com/lpmerlo/proyecto-final-entrega-automation-testing-Luciana-Merlo.git`
-
-## Instalacion dependencias
-
-`pip install -r requirements.txt`
-
+  
 ## Estructura del proyecto
 - Organización clara de directorios
 - implementa el patrón Page Object Model para las pruebas de UI
   
-
 ## Funcionalidades 
 - Pruebas de UI
 - Pruebas API
 - Generación de Reportes
 - Integración con CI/CD
+  
+## Repositorio
+`git clone https://github.com/lpmerlo/proyecto-final-entrega-automation-testing-Luciana-Merlo.git`
+
+## Instalacion dependencias
+`pip install -r requirements.txt`
+
+## Ejecución de pruebas
+`pytest testing`
+
+## Generación de reportes html
+`pytest -v --html=report.html --self-contained-html`
+
+  
